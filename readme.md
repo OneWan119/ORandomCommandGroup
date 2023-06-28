@@ -49,7 +49,7 @@ RandomCommandGroups:
 
 ### 命令① /orcg 120 one 抽奖 10 10
 
-![image-20230628172241894](C:\Users\86156\AppData\Roaming\Typora\typora-user-images\image-20230628172241894.png)
+![](https://s1.ax1x.com/2023/06/28/pCdOVKg.png)
 
 为 玩家 120 执行指令组 "抽奖"，执行方式为 one，概率为 10%，次数为 10
 
@@ -57,7 +57,7 @@ RandomCommandGroups:
 
 ### 命令② /orcg 120 one 抽奖 1 100
 
-![image-20230628172842529](C:\Users\86156\AppData\Roaming\Typora\typora-user-images\image-20230628172842529.png)
+![](https://s1.ax1x.com/2023/06/28/pCdOK5q.png)
 
 为 玩家 120 执行指令组 "抽奖"，执行方式为 one，概率为 1%，次数为 10
 
@@ -65,7 +65,7 @@ RandomCommandGroups:
 
 ### 命令③ /orcg 120 all 抽奖 100
 
-![image-20230628173022513](C:\Users\86156\AppData\Roaming\Typora\typora-user-images\image-20230628173022513.png)
+![](https://s1.ax1x.com/2023/06/28/pCdOGMF.png)
 
 为 玩家 120 执行指令组 "抽奖"，执行方式为 all，概率为 100%，次数为 1
 
@@ -73,7 +73,7 @@ RandomCommandGroups:
 
 ### 命令④ /orcg * 120 all 抽奖 one 抽奖 100 
 
-![image-20230628173113491](C:\Users\86156\AppData\Roaming\Typora\typora-user-images\image-20230628173113491.png)
+![](https://s1.ax1x.com/2023/06/28/pCdOJr4.png)
 
 基础条件: 120 是 OP
 
@@ -83,7 +83,7 @@ RandomCommandGroups:
 
 ### 命令⑤ /orcg * 120 all 抽奖 one 抽奖 100 
 
-![image-20230628173214381](C:\Users\86156\AppData\Roaming\Typora\typora-user-images\image-20230628173214381.png)
+![](https://s1.ax1x.com/2023/06/28/pCdONZ9.png)
 
 基础条件: 120 不是 OP
 
