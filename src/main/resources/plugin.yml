@@ -1,0 +1,6 @@
+name: ORandomCommandGroup
+version: '1.0.0-SNAPSHOT'
+main: com.onewan.orandomcommandgroup.ORandomCommandGroup
+commands:
+  ORandomCommandGroup:
+    aliases: [orcg]

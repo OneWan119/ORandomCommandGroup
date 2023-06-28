@@ -1,0 +1,16 @@
+RandomCommandGroups:
+  抽奖:
+    - 'orcg %player% all A 100'
+    - 'orcg %player% all B 100'
+    - 'orcg %player% all C 100'
+    - 'orcg %player% all D 100'
+  A:
+    - 'give %player% minecraft:diamond 1'
+  B:
+    - 'give %player% minecraft:diamond 2'
+  C:
+    - 'give %player% minecraft:diamond 4'
+  D:
+    - 'give %player% minecraft:diamond 8'
+  E:
+    - 'give %player% minecraft:diamond 16'
